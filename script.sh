@@ -5,4 +5,3 @@ echo "$NUMBER"
 
 echo "this was run automatically"
 echo "trigger jenkins"
-echo "last echo"
