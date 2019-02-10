@@ -5,3 +5,5 @@ echo "$NUMBER"
 
 echo "this was run automatically"
 echo "trigger jenkins"
+echo "i want to see this building automatically with jenkins"
+
