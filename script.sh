@@ -7,5 +7,5 @@ echo "this was run automatically"
 echo "trigger jenkins"
 echo "i want to see this building automatically with jenkins"
 
-hiiiiiiiiiiiiiiii
-now it shouuuuuuld work
+echo "hiiiiiiiiiiiiiiii"
+echo "now it shouuuuuuld work"
